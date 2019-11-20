@@ -34,6 +34,7 @@ GIF created with [LiceCap](http://www.cockos.com/licecap/).
 ## Notes
 
 Describe any challenges encountered while building the app.
+- Swift is a new langauge to me. The most difficult thing is to create a new swift project, I can't find several default            files. At the beginning, I try to create files, but it's too difficult to follow next steps. So, I deleted project and recreated project several times, at the end, I found when I create the project, the User Interface, I need to choose storyboard instead of SwiftUI.
 
 ## License
 
